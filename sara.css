@@ -1,0 +1,92 @@
+<style>
+a:link {
+    color:#000;
+    text-decoration:none;
+    font-weight:300;
+}
+
+a:visited {
+    color:#4AA869;
+    text-decoration:none;
+    font-weight:300;
+
+}
+
+a:hover {
+    text-decoration:none;
+    color:#4AA869;
+    font-weight:300;
+
+}
+
+a {
+	color:#4AA869;
+	text-decoration:none;
+    font-weight:300;
+
+}
+
+p {
+    color:#000;
+    font-family: 'Merriweather', serif;
+    font-size:16px;
+    text-decoration:none;
+    font-weight:300;
+}
+
+i {
+    font-weight: 300italic;
+}
+
+h3 {
+    color:#000;
+    font-family: 'Merriweather', serif;
+    font-size:20px;
+    text-decoration:none;
+    font-weight:300;
+
+}
+
+ul {
+    text-decoration:none;
+    font-family: 'Merriweather', serif;
+    font-size:16px;
+}
+
+ul li {
+	text-decoration: none;
+	color: #000000;
+	}
+	
+ul li a {	
+	text-decoration: none;
+	color: #000000;
+	}
+	
+
+#nav {
+    width:50%;
+    float:center;
+    padding-left:25%; 
+    padding-top:45px;
+    padding-right:25%;
+}
+
+#main {
+    width:70%;
+    float:center;
+    padding-left:15%; 
+    padding-top:50px;
+    padding-right:15%;
+}
+
+.circular {
+    width: 222px;
+    height:222px;
+    float:center;
+    border-radius: 150px;
+    -webkit-border-radius: 150px;
+    -moz-border-radius:150px;
+    background:url(http://www.saraegregory.com/saragregory.png) no-repeat;
+}
+</style>
